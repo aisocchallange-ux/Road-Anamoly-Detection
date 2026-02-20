@@ -1,0 +1,5 @@
+Ultralytics
+OpenCV
+NumPy
+Pandas
+Matplotlib
